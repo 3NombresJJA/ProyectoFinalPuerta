@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Documentos\UnPocoDeTodo\ProyectoFinalBeta\simulation\qsim
+vProyectoFinal
+Z1 ISglDH9QR3[LI[8^BGA97Y1
+Z2 VR@Y_<E:TQVQ^z[G@:?^fn1
+Z3 dC:\Users\Logicos\Desktop\ProyectoFinalBeta\simulation\qsim
+Z4 w1676038908
+Z5 8ProyectoFinal.vo
+Z6 FProyectoFinal.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|ProyectoFinal.vo|
+Z9 o-work work -O0
+Z10 n@proyecto@final
+!i10b 1
+Z11 !s100 BeAJ=ATESL:1OH<eaFK=81
+!s85 0
+Z12 !s108 1676038908.671000
+Z13 !s107 ProyectoFinal.vo|
+!s101 -O0
+vProyectoFinal_vlg_check_tst
+!i10b 1
+Z14 !s100 ;5FD3=k8OkCYl`Xg9IC>J3
+Z15 I6mQ^[5KGg>LT;bUn2hg5H3
+Z16 VNAT:42EkKFaW>iSW2Z5L41
+R3
+Z17 w1676038906
+Z18 8Waveform3.vwf.vt
+Z19 FWaveform3.vwf.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z20 !s108 1676038908.733000
+Z21 !s107 Waveform3.vwf.vt|
+Z22 !s90 -work|work|Waveform3.vwf.vt|
+!s101 -O0
+R9
+Z23 n@proyecto@final_vlg_check_tst
+vProyectoFinal_vlg_sample_tst
+!i10b 1
+Z24 !s100 oB8Uz?OMJ3C?R14DUU?d82
+Z25 IiBb[m8NQmRR;PDNGk10R[1
+Z26 V@d^m412h=aX9:@i@Mmzg91
+R3
+R17
+R18
+R19
+L0 29
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z27 n@proyecto@final_vlg_sample_tst
+vProyectoFinal_vlg_vec_tst
+!i10b 1
+Z28 !s100 ?@C5ZOe993m^KNeX7z@1n3
+Z29 IE_;L]d1Ki0oRCciX1Z79_2
+Z30 VQhVZYb5LBXQUTmmoSoaGA0
+R3
+R17
+R18
+R19
+Z31 L0 372
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z32 n@proyecto@final_vlg_vec_tst
